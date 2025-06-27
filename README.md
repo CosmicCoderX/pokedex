@@ -1,12 +1,59 @@
-# React + Vite
+# <img src="https://github.com/user-attachments/assets/86593fc9-776a-46b2-9a65-e7b78bc439aa" alt="pokeball" width="40" /> Pokédex React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and interactive **Pokédex** web application built with **React** and **Vite**. It fetches data for the first 250 Pokémon using the **PokéAPI** and displays each Pokémon in the form of an elegant card layout. The app includes a **search functionality** to quickly find your favorite Pokémon by name.
 
-Currently, two official plugins are available:
+## 🔍 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Fetches Pokémon data dynamically from the [PokéAPI](https://pokeapi.co/)
+- Displays each Pokémon in a card format with:
+  - Image
+  - Name
+  - Type(s)
+  - ID
+- Real-time search bar to filter Pokémon by name
+- Fast and optimized using **Vite** build tool
+- Responsive and clean UI using modern CSS
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+[Live Site on Vercel](https://pokedex-three-taupe-52.vercel.app/)
+
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Vite, CSS
+- **API:** [PokéAPI](https://pokeapi.co/)
+
+## 📦 Installation and Running Locally
+
+1. Clone the repository:  
+   `git clone https://github.com/yourusername/pokedex.git`  
+   `cd pokedex`
+
+2. Install dependencies:  
+   `npm install`
+
+3. Run the app:  
+   `npm run dev`
+
+4. Open `http://localhost:5173` in your browser.
+
+## 🌐 Deployment
+
+This app is deployed using [Vercel](https://vercel.com/).
+
+Steps:  
+- Connect your GitHub repository  
+- Import the project  
+- Use default build settings (`npm run build`)  
+- Deploy 🚀
+
+## 🙌 Acknowledgements
+
+- [PokéAPI](https://pokeapi.co/) for the amazing free API
+- React and Vite open-source community
+
+## 📧 Contact
+
+Made with ❤️ by **Suryakant Dwivedi**  
+[GitHub](https://github.com/CosmicCoderX) • [LinkedIn](https://www.linkedin.com/in/suryakant-dwivedi-837415236/)
