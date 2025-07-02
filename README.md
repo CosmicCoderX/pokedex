@@ -1,4 +1,4 @@
-# <img src="https://github.com/user-attachments/assets/86593fc9-776a-46b2-9a65-e7b78bc439aa" alt="pokeball" width="40" /> Pokédex React App
+# <img src="https://github.com/user-attachments/assets/86593fc9-776a-46b2-9a65-e7b78bc439aa" alt="pokeball" width="40" /> Pokédex App
 
 A responsive and interactive **Pokédex** web application built with **React** and **Vite**. It fetches data for the first 250 Pokémon using the **PokéAPI** and displays each Pokémon in the form of an elegant card layout. The app includes a **search functionality** to quickly find your favorite Pokémon by name.
 
